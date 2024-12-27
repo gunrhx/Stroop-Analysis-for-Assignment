@@ -1,3 +1,6 @@
+#Written on: 18/12/2024
+#This code computes a multi-factor regression model on Stroop data
+
 # install.packages("lme4")
 
 

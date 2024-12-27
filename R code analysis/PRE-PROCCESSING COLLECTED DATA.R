@@ -1,3 +1,7 @@
+#Written: 18/12/2024
+#This code takes collected experiment data and converts it into raw data
+
+
 # R course for beginners
 # Week 7
 # assignment by Omri Sabato, id 322777988

@@ -1,3 +1,7 @@
+#Written: 18/12/2024
+#This code takes raw experiment data and converts it into filtered data ready for analysis
+
+
 # R course for beginners
 # Week 7
 # assignment by Omri Sabato, id 322777988
