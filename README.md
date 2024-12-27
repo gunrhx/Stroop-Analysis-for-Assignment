@@ -7,4 +7,4 @@ this is the analysis of a Stroop experiment
 
 ## Example Figure
 this is a boxplot figure of response time-congruency
-![Boxplot rt-congruency](Stroop-Analysis-for-Assignment/graphs/boxplot_rt-congruency)
+![Boxplot rt-congruency](graphs/boxplot_rt-congruency.png)
